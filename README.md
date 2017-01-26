@@ -33,7 +33,7 @@ To add an index:
 
 ```
 CREATE INDEX [index name]
-  ON [table name] ([column name(s) index]);
+  ON [table name]([column name(s) index]);
 ```
 
 Record your index statements in `indexing.sql`
